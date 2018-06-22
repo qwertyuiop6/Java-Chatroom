@@ -1,3 +1,3 @@
-# java Socket chat
+# Java Socket Chat-Room
 
 > Swing GUI,socket network 
